@@ -1,0 +1,13 @@
+
+@font-face {
+    font-family: 'koreandream1rregular';
+    src: url('a1-webfont.eot');
+    src: url('a1-webfont.eot?#iefix') format('embedded-opentype'),
+         url('a1-webfont.woff2') format('woff2'),
+         url('a1-webfont.woff') format('woff'),
+         url('a1-webfont.ttf') format('truetype'),
+         url('a1-webfont.svg#koreandream1rregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
